@@ -1,0 +1,44 @@
+h2
+{
+    border-radius: 10px;
+    border: 2px solid burlywood;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+    width: 400px;
+    margin: auto;
+    margin-top: 50px;
+}
+
+.item1
+{
+    border-radius: 10px;
+    display: flex;
+    width: 200px;
+    margin: auto;
+    border: 2px solid black;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 5px;
+}
+
+.item2
+{
+    border-radius: 10px;
+    margin: auto;
+    display: flex;
+    width: 200px;
+    border: 2px solid black;
+    padding: 5px;
+}
+
+body
+{
+    background: rgb(154,138,124);
+    background: linear-gradient(90deg, #b3a294 0%, #8b7f74 100%);
+}
+
+a
+{
+    font-size: 25px;
+}

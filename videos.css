@@ -1,0 +1,73 @@
+
+.SaibaMais
+{
+    text-align: center;
+    border: 2px double #e0c6b1;
+    padding: 10px;
+}
+
+h2
+{
+    text-align: center;
+}
+.Resumo
+{
+    text-align: center;
+}
+
+.text1
+{
+   text-align: justify;
+   margin-left: 150px;
+   margin-right: 150px;
+}
+
+.text2
+{
+    text-align: justify;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+.SaibaMais
+{
+    text-align: center;
+    border: 2px double #e0c6b1;
+    padding: 10px;
+    width: 400px;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+body
+{
+    background: rgb(154,138,124);
+background: linear-gradient(90deg, #8b7f74 0%, #b3a294 100%);
+}
+
+hr
+{
+    color: #e9d3c0;
+}
+
+a
+{
+    font-size: 25px;
+}
+
+.Resumo
+{
+    text-align: center;
+    border: 2px double #e0c6b1;
+    padding: 10px;
+    width: 400px;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+footer
+{
+    
+}
