@@ -1,0 +1,58 @@
+
+body
+{   
+    background: url(Aedos-Os-Poetas-da-Grecia-Antiga-1700x956\ \(1\).webp) no-repeat;
+    background-size: cover;
+}
+
+
+.submit
+{
+    background-color: rgba(255, 228, 196, 0.308);
+    border: solid 1px;
+}
+
+a
+{
+    margin: auto;
+    color: black;
+    text-decoration: none;
+}
+
+.box
+{
+text-align: center;
+    border: 2px solid rgba(222, 184, 135, 0.418);
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 50px;
+    width: 250px;
+    padding: 10px;
+    background: transparent;
+    backdrop-filter: blur(20px);
+    box-shadow: 0 0 10px;
+    margin-top: 250px;
+}
+
+.qs
+{
+    border: 1px black solid;
+    padding: 5px;
+    background-color: #ffe1b56c;
+    border-radius: 10px;
+}
+
+.qs2
+{
+    border: 1px black solid;
+    padding: 5px;
+    background-color: #ffe1b56c;
+    border-radius: 10px;
+}
+
+input
+{
+    background: transparent;
+    border-radius: 10px;
+    border: 1px solid rgb(48, 48, 48);
+}
